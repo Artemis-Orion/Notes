@@ -40,4 +40,4 @@ A paragraph with text
 | content | more content | even more text |
 | this | is | another row |
 
-These are examples of * bold *, ** italic **, and ~~Strike Through~~ text.
+These are examples of **bold**, *italic*, and ~~Strike Through~~ text.
