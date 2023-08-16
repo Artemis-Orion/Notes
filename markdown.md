@@ -29,3 +29,15 @@ This shows a line break.
 ```python
 print("This is another code block.")
 ```
+
+![alt text](https://images.pexels.com/photos/11253062/pexels-photo-11253062.jpeg)
+
+A paragraph with text
+> A block quote below the paragraph
+
+| heading | header | head |
+| --- | --- | --- |
+| content | more content | even more text |
+| this | is | another row |
+
+These are examples of * bold *, ** italic **, and --Strike Through-- text.
